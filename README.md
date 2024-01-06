@@ -1,18 +1,18 @@
-i# ajmera_infotech_assignment-web_scraping
-# Flipkart Mobiles Web Scraping Assignment
+# ajmera_infotech_assignment
+## Flipkart Mobiles Web Scraping Assignment
 
-## Introduction
+### Introduction
 
 This Python script performs web scraping on Flipkart's search pages to gather information about mobile phones. The script collects data such as name, ratings, color, RAM, ROM, price, currency type, processor chip, processor cores, main camera, front camera, display size, display type, and warranty.
 
-## Prerequisites
+### Prerequisites
 
 Make sure you have the following installed:
 
 - Python 3
 - Required Python libraries: `requests`, `beautifulsoup4`
 
-## Detailed info
+### Detailed info
 
 - i have selected 2nd problem statement which is of web scrapping from flipcart website.
 - in this  assignment i have wrote code that first go to flipkart page using "https://www.flipkart.com" as url and "iPhone" as query and got response.then i have used BeautifulSoup for parsing html file that we have got in response. then  get the values of name,price,rating and feature list from flipkart website using class name of div tags.
