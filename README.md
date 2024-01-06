@@ -12,7 +12,8 @@ Make sure you have the following installed:
 - Python 3
 - Required Python libraries: `requests`, `beautifulsoup4`
 
-##Dertailed info
+## Detailed info
+
 i have selected 2nd problem statement which is of web scrapping from flipcart website.
 in this  assignment i have wrote code that first go to flipkart page using "https://www.flipkart.com" as url and "iPhone" as query and got response.
 then i have used BeautifulSoup for parsing html file that we have got in response.
