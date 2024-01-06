@@ -7,6 +7,10 @@ then from name i have separated color and ram of phones.
 from price i have separated value and currency type('₹': 'Rupees', '$': 'Dollars', '€': 'Euros', '£': 'Pounds', '¥': 'Yen').
 then from features i have separated values of display,camera,processor,warranty,rom.
 then divided each columns in to multiple meaningful columns.
+in display i have divided in to display size and display type.
+camera is divided in to main_camera and front_camera.
+processor  is divided in to processor chips and number of cores.
+so that it will be easier and efficient for user of data to convineantly access the data of phones.
 i have also kept no. of request to minimum so that it will be efficient and less prone to errors.
 finally i have saved all information in csv format.
 thank you.
